@@ -4,5 +4,5 @@ A change point is an instance in time where the statistical properties before an
 
 The Change Point Model (CPM) is based on the <code>cpm</code> package in R which implements various change point models for sequential change detection, using both parametric and nonparametric methods.
 
-The Shiny app can be viewed <a href = "https://remixinstitute.shinyapps.io/stock-cpm-app/" target = "_blank">here.</a>
+The Shiny app can be viewed <a href = "https://remixinstitute.shinyapps.io/stock-cpm-app/" target="_blank">here.</a>
 
